@@ -18,3 +18,11 @@ Meertalige ondertitels en onderwerp filters/zoeken voor [Arkin ThuisBuis Youtube
 * Links voor Web Developers
 
     * [Web Developer Cheat Sheets](https://dev.to/insha/the-ultimate-cheat-sheet-list-for-web-developers-2i9i)
+
+* Programeer opdrachten
+
+    * [Game-Timer](http://everybo.dy.fi/gametimer/gametimer.html)
+
+<hr>
+
+<a href="https://github.com/roads-technology/roads-technology.github.io/edit/main/README.md">(R)</a>
